@@ -23,5 +23,5 @@ function iLoveTheBeatles(number) {
     number++;
     return array;
   }
-  while (number < 15 && number > 6)
+  while (number < 15 && number > 7)
 }
