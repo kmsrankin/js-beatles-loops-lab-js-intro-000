@@ -15,3 +15,12 @@ function johnLennonFacts(facts) {
   }
   return array
 }
+
+iLoveTheBeatles(number) {
+  var array = []
+  do {
+    array.push("I love the Beatles!")
+    return array
+  }
+  while (number < 15 && number > 7)
+}
